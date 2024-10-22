@@ -10,8 +10,13 @@ Our mission is to provide high-quality open-source projects that can be easily i
 ## 🤝 Contributing
 We encourage community involvement! Whether you're interested in fixing bugs, adding new features, or suggesting improvements, feel free to contribute.
 
-## 🛠 Help & Support
+## 📚 Documentation  
+We provide comprehensive documentation for all of our premium assets. Explore detailed guides, setup instructions, and more on our official [Documentation Website](https://docs.coolbrad.com).
 
+## 🛒 Tebex Webstore  
+Discover a wide range of premium resources available for purchase on our [Tebex Webstore](https://store.coolbrad.com). Enhance your projects with top-quality assets curated for developers.
+
+## 🛠 Help & Support
 Need help with one of our scripts or projects? We're here to assist!
 
 - **Discord Support**: For real-time assistance, join our [Discord server](https://discord.gg/FQtN5FXcG5). Open a ticket and one of our team members will be happy to help.
