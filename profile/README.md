@@ -25,6 +25,6 @@ Need help with one of our scripts or projects? We're here to assist!
 
 Stay updated and connect with our community:
 - Follow us on [GitHub](https://github.com/CoolBrad-Scripts) for the latest releases and updates.
-- Join our vibrant community on [Discord](https://discord.gg/FQtN5FXcG5).
+- Join our [Discord](https://discord.gg/FQtN5FXcG5).
 
 Thank you for visiting our GitHub organization! We look forward to collaborating with you.
