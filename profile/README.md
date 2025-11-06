@@ -19,7 +19,7 @@ Discover a wide range of premium resources available for purchase on our [Tebex 
 ## 🛠 Help & Support
 Need help with one of our scripts or projects? We're here to assist!
 
-- **Discord Support**: For real-time assistance, join our [Discord server](https://discord.gg/FQtN5FXcG5). Open a ticket and one of our team members will be happy to help.
+- **Discord Support**: For real-time assistance, join our [Discord server](https://discord.gg/Jwm8NVj22P). Open a ticket and one of our team members will be happy to help.
 
 ## 🌐 Connect with Us
 
