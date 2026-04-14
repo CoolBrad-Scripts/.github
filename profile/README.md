@@ -14,7 +14,7 @@ We encourage community involvement! Whether you're interested in fixing bugs, ad
 We provide comprehensive documentation for all of our premium assets. Explore detailed guides, setup instructions, and more on our official [Documentation Website](https://coolbrad.gitbook.io).
 
 ## 🛒 Tebex Webstore  
-Discover a wide range of premium resources available for purchase on our [Tebex Webstore](https://store.coolbrad.com). Enhance your projects with top-quality assets curated for developers.
+Discover a wide range of premium resources available for purchase on our [Tebex Webstore](https://coolbrad.tebex.io). Enhance your projects with top-quality assets curated for developers.
 
 ## 🛠 Help & Support
 Need help with one of our scripts or projects? We're here to assist!
